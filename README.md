@@ -1,6 +1,6 @@
 # Linux-IaC-Scripts
 
-Scripts dos projetos do Bootcamp Linux Experience.
+Scripts para os projetos do Bootcamp Linux Experience.
 
 
 ## Infrastructure as Code (IaC)
