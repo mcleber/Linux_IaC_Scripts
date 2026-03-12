@@ -12,7 +12,7 @@
 
 Este repositório contém scripts de automação utilizados durante o Bootcamp Linux Experience.
 
-O objetivo é demonstrar conceitos básicos de automação em Linux e Infrastructure as Code.
+O objetivo é demonstrar conceitos básicos de automação em Linux e Infraestrutura como Código.
 
 ## Infraestrutura como Código (IaC)
 
