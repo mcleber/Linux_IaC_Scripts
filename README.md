@@ -1,4 +1,4 @@
-# Linux-IaC-Scripts
+# Linux IaC Scripts
 
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
