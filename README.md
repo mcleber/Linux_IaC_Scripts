@@ -2,8 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
-![Automation](https://img.shields.io/badge/Type-IaC-green)
-![Shell](https://img.shields.io/badge/Shell-Bash-lightgrey)
+![Type](https://img.shields.io/badge/Automation-IaC-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 🇧🇷 🇺🇸
