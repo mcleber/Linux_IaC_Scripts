@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Automation-IaC-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-🇧🇷 🇺🇸
+🇧🇷 🇬🇧
 
 ## Sobre
 
@@ -37,7 +37,7 @@ Using IaC helps ensure that environments are reproducible, consistent, and easie
 
 ## Scripts
 
-| Script | 🇧🇷 Português | 🇺🇸 English |
+| Script | 🇧🇷 Português | 🇬🇧 English |
 |------|------|------|
 | **iac.sh** | **Diretórios, Grupos, Usuários e Permissões**<br><br>Este script automatiza a criação de diretórios, grupos e usuários, além de configurar permissões no sistema.<br><br>**Regras aplicadas:**<br>- O dono de todos os diretórios criados será o usuário **root**<br>- Todos os usuários terão permissão total dentro do diretório **publico**<br>- Usuários de cada grupo terão permissão total dentro do seu diretório<br>- Usuários não terão permissão em diretórios de departamentos que não pertencem | **Directories, Groups, Users and Permissions**<br><br>This script automates the creation of directories, groups and users, as well as configuring system permissions.<br><br>**Applied rules:**<br>- All created directories are owned by **root**<br>- All users have full permissions inside the **public** directory<br>- Users have full permissions within their department directory<br>- Users cannot access directories of departments they do not belong to |
 | **iac2.sh** | **Servidor Web**<br><br>Este script automatiza a configuração de um servidor web.<br><br>**Etapas executadas:**<br>- Atualiza o servidor<br>- Instala **Apache2**<br>- Instala **unzip**<br>- Faz download de uma aplicação de teste<br>- Descompacta o arquivo<br>- Copia os arquivos para o diretório padrão do Apache | **Web Server**<br><br>This script automates the setup of a web server.<br><br>**Steps executed:**<br>- Updates the server<br>- Installs **Apache2**<br>- Installs **unzip**<br>- Downloads a test application<br>- Extracts the archive<br>- Copies the files to the Apache default directory |
