@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
 ![Type](https://img.shields.io/badge/Automation-IaC-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-darkgray)
 
 🇧🇷 🇬🇧
 
